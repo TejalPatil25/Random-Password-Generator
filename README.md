@@ -1,3 +1,17 @@
-# PassGenerator
-Creates a password based on the options selected (uppercase, lowercase, numbers and symbols)
-![image](https://user-images.githubusercontent.com/69783516/154007302-8a1a1006-f973-41a3-8d34-83e15a046b72.png)
+# Random Password Generator
+1.  Creates a password based on the options selected (uppercase, lowercase, numbers and symbols).
+2.  An application that a user can use to generate a random password based on criteria they’ve selected. Features dynamically updated HTML and CSS using Javascript. Application is     fully responsive to small and wide views.
+3.  Built using Javascript, HTML and CSS. The password generator is an application where a user can generate a secure, random password - between 8 - 128 characters, and providing     options to include numbers, special characters as well as upper and lowercase letters.
+4.  What's included?
+    HTML, CSS and Javascript files include the source code for running the password generator application
+    This project demonstrates ways in which javavscript cane be used to manipulate the DOM elements in the browser window and dynamically updating HTML.
+    
+    
+    ![image](https://user-images.githubusercontent.com/69783516/154007818-07a35986-f428-4bdd-a754-3a9c0666ab39.png)
+    
+    
+    ![image](https://user-images.githubusercontent.com/69783516/154007857-49aefa1a-6131-4dac-93fb-2b2dc6f6c546.png)
+
+
+    
+    
